@@ -1,6 +1,4 @@
-// token : oauth:zog4g7dflqgklppyl09rrr4b3ovgx3
-// client fortnite : basic MzRhMDJjZjhmNDQxNGUyOWIxNTkyMTg3NmRhMzZmOWE6ZGFhZmJjY2M3Mzc3NDUwMzlkZmZlNTNkOTRmYzc2Y2Y=
-// game fortnite : basic ZWM2ODRiOGM2ODdmNDc5ZmFkZWEzY2IyYWQ4M2Y1YzY6ZTFmMzFjMjExZjI4NDEzMTg2MjYyZDM3YTEzZmM4NGQ=
+
 
 const tmi = require("tmi.js");
 const fortnite = require("fortnite-api");
